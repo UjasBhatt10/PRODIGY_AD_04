@@ -14,7 +14,7 @@ This is a simple Tic Tac Toe game built using Flutter. The game allows two playe
 - Restart option to start a new game
 
 | Add Players | Game Play | Winner | Tie Game |
-|:-----------:|:------------------:|:------------------:|
+|:-----------:|:------------------:|:------------------:|:------------------:|
 |![Screenshot 1](https://github.com/UjasBhatt10/PRODIGY_AD_04/blob/main/Screenshots/1.jpg)|![Screenshot 2](https://github.com/UjasBhatt10/PRODIGY_AD_04/blob/main/Screenshots/2.jpg)|![Screenshot 3](https://github.com/UjasBhatt10/PRODIGY_AD_04/blob/main/Screenshots/3.jpg)|![Screenshot 3](https://github.com/UjasBhatt10/PRODIGY_AD_04/blob/main/Screenshots/4.jpg)|
 
 
